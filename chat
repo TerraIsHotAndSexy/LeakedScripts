@@ -1,3 +1,0 @@
-game:GetService("StarterGui"):SetCoreGuiEnabled('Chat', true)
-game:GetService("Players").RandallSmith31.PlayerGui.Chat.Frame.ChatChannelParentFrame.Visible = true
-game:GetService("Players").RandallSmith31.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Position = UDim2.new(0, 11, 0, 225)
